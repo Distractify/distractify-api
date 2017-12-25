@@ -6,5 +6,6 @@ Rails:
   Enabled: true
 
 Metrics/LineLength:
+  Max: 90
   # Ignores comment line length
   IgnoredPatterns: ['(\A|\s)#']
